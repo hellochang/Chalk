@@ -1,6 +1,6 @@
 # Mandatory settings
 
-blog_theme: light # Or use dark
+blog_theme: dark # Or use light
 name: Chalk
 paginate: 25
 url: # add your site url (format: https://example.com)
