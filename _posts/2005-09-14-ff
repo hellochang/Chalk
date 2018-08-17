@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Chalk sample post with all elements"
+ayout: post
+title: "ff"
 description: "Have a look at all the predesigned elements you can use in Chalk."
+thumb_image: "documentation/sample-image.jpg"
+tags: [design, jekyll]
 ---
 
 # Publication
-
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, 
 you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, 
 **Google Drive**,
