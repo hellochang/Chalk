@@ -2,7 +2,7 @@
 layout: post
 title: "ISSYP Application Essay (Accepted)"
 description: "An example ISSYP Application Essay that was admitted"
-tags: [ISSYP, ISSYP application essay, physics summer camp application essay,]
+tags: [ISSYP, ISSYP application essay, ISSYP example essay, physics summer camp application essay,]
 ---
 
 I genuinely enjoyed mathematics and physics ever since I was little. As I enjoyed both mathematics and physics so much, I was intrigued to see the role mathematics played in predicting natural phenomena in physics. Later, I grew fonder of theoretical physics when I found that mathematics is so useful in strengthening my understanding of different physical laws.
