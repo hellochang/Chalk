@@ -1,9 +1,9 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Chalk
+name: Chang Liu
 paginate: 25
-url: http://chalk.nielsenramon.com
+url: https://hellochang.github.io/
 
 
 # Optional settings
@@ -15,12 +15,12 @@ local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
 scrollappear_enabled: true # Change to false to disable
 social:
-  dribbble: nielsenramon # Add your Dribbble handle
+  #dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
   github: nielsenramon # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
-  twitter: nielsenramon # Add your Twitter handle
+  linkedin: hellochang # Add your LinkedIn handle
+  twitter: # Add your Twitter handle
   email: # Add your Email address
   bitcoin: # Add your Bitcoin link or address
   ethereum: # Add your Ethereum link or address
@@ -31,7 +31,7 @@ social:
   tumblr: # Add your Tumblr handle
   bitbucket: # Add your Bitbucket handle
   docker: # Add your Docker Hub handle
-  instagram: # Add your Instagram handle
+  instagram: chang.liu # Add your Instagram handle
   keybase: # Add your Keybase handle
   medium: # Add your Medium handle
   spotify: # Add your Spotify handle
